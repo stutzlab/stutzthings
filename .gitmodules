@@ -1,0 +1,18 @@
+[submodule "stutzthings-devices-mosquitto"]
+	path = stutzthings-devices-mosquitto
+	url = https://github.com/stutzlab/stutzthings-devices-mosquitto.git
+[submodule "stutzthings-devices-api"]
+	path = stutzthings-devices-api
+	url = https://github.com/stutzlab/stutzthings-devices-api.git
+[submodule "stutzthings-data-influxdb"]
+	path = stutzthings-data-influxdb
+	url = https://github.com/stutzlab/stutzthings-data-influxdb.git
+[submodule "stutzthings-data-mqtt2influxdb"]
+	path = stutzthings-data-mqtt2influxdb
+	url = https://github.com/stutzlab/stutzthings-data-mqtt2influxdb.git
+[submodule "stutzthings-data-api"]
+	path = stutzthings-data-api
+	url = https://github.com/stutzlab/stutzthings-data-api.git
+[submodule "stutzthings-data-grafana"]
+	path = stutzthings-data-grafana
+	url = https://github.com/stutzlab/stutzthings-data-grafana.git
