@@ -16,3 +16,6 @@
 [submodule "stutzthings-data-grafana"]
 	path = stutzthings-data-grafana
 	url = https://github.com/stutzlab/stutzthings-data-grafana.git
+[submodule "ronda-ui"]
+	path = ronda-ui
+	url = https://github.com/stutzlab/ronda-ui.git
