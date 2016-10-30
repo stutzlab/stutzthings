@@ -19,3 +19,6 @@
 [submodule "ronda-ui"]
 	path = ronda-ui
 	url = https://github.com/stutzlab/ronda-ui.git
+[submodule "ronda-presence-api"]
+	path = ronda-presence-api
+	url = https://github.com/stutzlab/ronda-presence-api.git
